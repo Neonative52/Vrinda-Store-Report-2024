@@ -1,0 +1,2 @@
+I efficiently cleaned, processed, and structured raw data to ensure high accuracy and consistency for analysis. Using Excel functions, pivot tables, and pivot charts, I conducted in-depth sales data analysis to identify key trends. Additionally, I designed an interactive Excel dashboard with dynamic visualizations to effectively showcase essential sales insights.
+![image](https://github.com/user-attachments/assets/55305ad7-b143-4526-bc39-18a3f11496d6)
